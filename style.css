@@ -384,7 +384,7 @@ a:active {
 .menu-main-navigation-container ul li {
 	margin: 0;
 	display: inline;
-/*	float: left;*/
+	float: left;
 	padding-left: 1em;
 	padding-right: 2em;
 }
